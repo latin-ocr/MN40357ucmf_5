@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN40357ucmf_5_0004.png"; bbox 0 0 2394 3352; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 403 197 1197 932">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 403 197 1197 932">
+     <span class='ocr_line' id='line_1_1' title="bbox 710 197 1197 347; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 710 197 1197 347; x_wconf 62' lang='grc' dir='ltr'>ΙἫὴποῆὴηι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 403 465 1197 712; baseline -0.006 -49"><span class='ocrx_word' id='word_1_2' title='bbox 403 465 1039 712; x_wconf 82' lang='lat' dir='ltr'><strong>University</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1083 489 1197 658; x_wconf 91' lang='grc' dir='ltr'><strong>οΙ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 809 736 1181 932; baseline -0.003 -3"><span class='ocrx_word' id='word_1_4' title='bbox 809 736 1181 932; x_wconf 79' lang='lat' dir='ltr'>Librar</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 842 1097 1194 1247">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 842 1097 1194 1247">
+     <span class='ocr_line' id='line_1_4' title="bbox 842 1097 1194 1247; baseline -0.011 0"><span class='ocrx_word' id='word_1_5' title='bbox 842 1097 1194 1247; x_wconf 69' lang='lat' dir='ltr'><strong>June1·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1202 3352">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1202 3352">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1202 3352; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1202 3352; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
